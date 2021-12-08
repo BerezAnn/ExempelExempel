@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="roll">Играть</string>
+    <string name="poem">Стихотворение</string>
+    <string name="dice_roll">Картинки</string>
+    <string name="about_roll">Стих</string>
+    <string name="see">Посмотри</string>
+</resources>
